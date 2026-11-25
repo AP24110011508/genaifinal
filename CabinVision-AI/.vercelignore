@@ -1,0 +1,14 @@
+.git
+.vercel
+.env
+.env.*
+**/.env
+**/.env.*
+**/node_modules
+**/venv
+**/__pycache__
+**/*.pyc
+backend/uploads
+backend/generated
+frontend/dist
+_uv
